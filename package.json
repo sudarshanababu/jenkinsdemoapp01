@@ -1,0 +1,16 @@
+{
+  "name": "jenkinsdemoapp01",
+  "description": "jenkins aws sam integration demo app01",
+  "version": "1.0.0",
+  "author": "Sudarshan Babu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.4"
+  },
+  "devDependencies": {
+    "supertest": "^3.3.0",
+    "mocha": "^5.2.0",
+    "proxyquire": "^1.0.21",
+    "aws-xray-sdk": "^1.1.6"
+  }
+}
